@@ -39,6 +39,7 @@ body {
 	text-decoration: none;
 	font-size: 15px;
 	font-family: inherit;
+	transition: all 0.4s;
 }
 
 .btn:focus {
@@ -94,7 +95,7 @@ body {
 .form-control-check {
 	display: flex;
 	align-items: center;
-	justify-content: space-between;
+	justify-content: space-evenly;
 }
 
 .form-control-check label {
