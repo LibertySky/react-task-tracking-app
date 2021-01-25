@@ -1,22 +1,22 @@
 {
-	"tasks": [
-		{
-			"id": 1,
-			"text": "Learn Vue",
-			"day": "Jan 21 at 9:00am",
-			"reminder": false
-		},
-		{
-			"id": 2,
-			"text": "Visit dentist",
-			"day": "Jan 20 at 12:00am",
-			"reminder": true
-		},
-		{
-			"id": 3,
-			"text": "Find junior role",
-			"day": "Jan 25 at 12:00am",
-			"reminder": true
-		}
-	]
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Learn Vue",
+      "day": "Jan 21 at 9:00am",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Visit dentist",
+      "day": "Jan 20 at 12:00am",
+      "reminder": true
+    },
+    {
+      "text": "Take test",
+      "day": "Jan 25",
+      "reminder": true,
+      "id": 3
+    }
+  ]
 }
